@@ -1,0 +1,88 @@
+2021-07-25 17:07:458 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-25 17:07:618 INFO  HomePage :15 - Clicking in loginLink : By.xpath: //a[contains(text(),'Login')]
+2021-07-25 17:07:196 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-25 17:07:424 INFO  HomePage :15 - Clicking in loginLink : By.xpath: //a[contains(text(),'Login')]
+2021-07-25 17:07:917 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-25 17:07:788 INFO  HomePage :15 - Clicking in loginLink : By.xpath: //a[contains(text(),'Login')]
+2021-07-25 17:07:471 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-25 17:07:201 INFO  HomePage :15 - Clicking in loginLink : By.xpath: //a[contains(text(),'Login')]
+2021-07-25 17:07:945 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-25 17:07:230 INFO  HomePage :15 - Clicking in loginLink : By.xpath: //a[contains(text(),'Login')]
+2021-07-25 18:07:624 INFO  BasePage :35 - Launching FireFox Browser 
+2021-07-25 18:07:310 INFO  HomePage :15 - Clicking in loginLink : By.xpath: //a[contains(text(),'Login')]
+2021-07-25 18:07:799 INFO  BasePage :35 - Launching FireFox Browser 
+2021-07-25 18:07:921 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-25 18:07:206 INFO  HomePage :15 - Clicking in loginLink : By.xpath: //a[contains(text(),'Login')]
+2021-07-25 21:07:345 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-25 21:07:924 INFO  HomePage :17 - Clicking in loginLink : By.xpath: //a[contains(text(),'Login')]
+2021-07-25 21:07:30 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-25 21:07:677 INFO  HomePage :17 - Mouse Hoover and Clicking on loginLink : By.xpath: //a[normalize-space()='Login']
+2021-07-25 21:07:128 INFO  HomePage :21 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-25 21:07:531 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-26 13:07:490 INFO  BasePage :62 - Launching Chrome Browser 
+2021-07-26 13:07:558 INFO  HomePage :21 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-26 13:07:225 INFO  BasePage :62 - Launching Chrome Browser 
+2021-07-26 13:07:968 INFO  HomePage :21 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-26 13:07:678 INFO  BasePage :62 - Launching Chrome Browser 
+2021-07-26 13:07:341 INFO  HomePage :21 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-26 14:07:705 INFO  BasePage :62 - Launching Chrome Browser 
+2021-07-26 14:07:907 INFO  HomePage :21 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-26 14:07:826 INFO  BasePage :62 - Launching Chrome Browser 
+2021-07-26 14:07:853 INFO  HomePage :21 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-26 14:07:887 INFO  BasePage :62 - Launching Chrome Browser 
+2021-07-26 14:07:738 INFO  HomePage :21 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-26 14:07:278 INFO  BasePage :62 - Launching Chrome Browser 
+2021-07-26 14:07:114 INFO  HomePage :21 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-26 14:07:234 INFO  BasePage :62 - Launching Chrome Browser 
+2021-07-26 14:07:485 INFO  HomePage :21 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-26 14:07:689 INFO  BasePage :62 - Launching Chrome Browser 
+2021-07-26 14:07:755 INFO  HomePage :21 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-26 14:07:505 INFO  BasePage :62 - Launching Chrome Browser 
+2021-07-26 14:07:31 INFO  HomePage :21 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-26 14:07:454 INFO  BasePage :62 - Launching Chrome Browser 
+2021-07-26 14:07:155 INFO  HomePage :21 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-26 14:07:619 INFO  BasePage :62 - Launching Chrome Browser 
+2021-07-26 14:07:392 INFO  HomePage :21 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-26 14:07:234 INFO  BasePage :62 - Launching Chrome Browser 
+2021-07-26 14:07:295 INFO  HomePage :17 - Mouse Hoover and Clicking on loginLink : By.xpath: //a[normalize-space()='Login']
+2021-07-26 14:07:227 INFO  BasePage :62 - Launching Chrome Browser 
+2021-07-26 14:07:284 INFO  HomePage :17 - Mouse Hoover and Clicking on loginLink : By.xpath: //a[normalize-space()='Login']
+2021-07-26 14:07:492 INFO  BasePage :62 - Launching Chrome Browser 
+2021-07-26 14:07:615 INFO  HomePage :17 - Mouse Hoover and Clicking on loginLink : By.xpath: //a[normalize-space()='Login']
+2021-07-26 14:07:438 INFO  BasePage :62 - Launching Chrome Browser 
+2021-07-26 14:07:370 INFO  HomePage :17 - Mouse Hoover and Clicking on loginLink : By.xpath: //a[normalize-space()='Login']
+2021-07-26 14:07:825 INFO  BasePage :62 - Launching Chrome Browser 
+2021-07-26 14:07:316 INFO  BasePage :62 - Launching Chrome Browser 
+2021-07-26 14:07:169 INFO  HomePage :17 - Mouse Hoover and Clicking on loginLink : By.xpath: //a[normalize-space()='Login']
+2021-07-29 23:07:303 INFO  BasePage :37 - Launching Chrome Browser 
+2021-07-29 23:07:598 INFO  HomePage :22 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-29 23:07:904 INFO  HomePage :17 - Mouse Hoover and Clicking on loginLink : By.xpath: //a[normalize-space()='Login']
+2021-07-29 23:07:713 INFO  BasePage :37 - Launching Chrome Browser 
+2021-07-29 23:07:571 INFO  HomePage :22 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-29 23:07:853 INFO  BasePage :37 - Launching Chrome Browser 
+2021-07-30 20:07:106 INFO  BasePage :37 - Launching Chrome Browser 
+2021-07-30 20:07:478 INFO  HomePage :25 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-30 20:07:716 INFO  HomePage :20 - Mouse Hoover and Clicking on loginLink : By.xpath: //a[normalize-space()='Login']
+2021-07-30 20:07:585 INFO  BasePage :37 - Launching Chrome Browser 
+2021-07-30 20:07:297 INFO  BasePage :37 - Launching Chrome Browser 
+2021-07-30 20:07:817 INFO  HomePage :25 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-30 20:07:481 INFO  HomePage :20 - Mouse Hoover and Clicking on loginLink : By.xpath: //a[normalize-space()='Login']
+2021-07-30 20:07:294 INFO  BasePage :37 - Launching Chrome Browser 
+2021-07-30 20:07:308 INFO  HomePage :25 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-30 20:07:447 INFO  HomePage :20 - Mouse Hoover and Clicking on loginLink : By.xpath: //a[normalize-space()='Login']
+2021-07-30 20:07:307 INFO  BasePage :37 - Launching Chrome Browser 
+2021-07-30 20:07:216 INFO  HomePage :25 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-30 20:07:355 INFO  HomePage :20 - Mouse Hoover and Clicking on loginLink : By.xpath: //a[normalize-space()='Login']
+2021-07-30 20:07:11 INFO  BasePage :37 - Launching Chrome Browser 
+2021-07-30 20:07:94 INFO  HomePage :25 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-30 20:07:290 INFO  HomePage :20 - Mouse Hoover and Clicking on loginLink : By.xpath: //a[normalize-space()='Login']
+2021-07-30 20:07:703 INFO  BasePage :37 - Launching Chrome Browser 
+2021-07-30 20:07:766 INFO  HomePage :25 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-30 20:07:908 INFO  BasePage :37 - Launching Chrome Browser 
+2021-07-30 20:07:714 INFO  HomePage :25 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-30 20:07:202 INFO  BasePage :37 - Launching Chrome Browser 
+2021-07-30 20:07:515 INFO  HomePage :25 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-30 20:07:811 INFO  BasePage :37 - Launching Chrome Browser 
+2021-07-30 20:07:994 INFO  HomePage :25 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
+2021-07-30 20:07:754 INFO  BasePage :37 - Launching Chrome Browser 
+2021-07-30 20:07:590 INFO  HomePage :25 - Click on cookie : By.xpath: //button[contains(text(),'OK')]
